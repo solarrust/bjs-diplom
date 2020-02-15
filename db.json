@@ -1,2 +1,97 @@
 {
+  "users": [
+    {
+      "created_at": "2019-10-15T05:28:25.593Z",
+      "login": "oleg@demo.ru",
+      "password": "demo",
+      "id": "1",
+      "balance": {
+        "RUB": 0,
+        "USD": 30,
+        "EUR": 20,
+        "NTC": 3000
+      }
+    },
+    {
+      "created_at": "2019-11-16T05:28:25.593Z",
+      "login": "ivan@demo.ru",
+      "password": "demo",
+      "id": "2",
+      "netocoins": 100,
+      "balance": {
+        "RUB": 20,
+        "USD": 0,
+        "EUR": 5,
+        "NTC": 100
+      }
+    },
+    {
+      "created_at": "2019-5-14T05:28:25.593Z",
+      "login": "petr@demo.ru",
+      "password": "demo",
+      "id": "3",
+      "balance": {
+        "RUB": 20600,
+        "USD": 300,
+        "EUR": 500,
+        "NTC": 50000
+      }
+    },
+    {
+      "created_at": "2020-02-15T09:57:15.329Z",
+      "login": "123",
+      "password": "123",
+      "id": "814rs73i8k6nffxdu",
+      "balance": {
+        "RUB": 1700,
+        "USD": 0.17335501847018925,
+        "EUR": 0,
+        "NTC": null,
+        "": null
+      }
+    },
+    {
+      "created_at": "2020-02-15T09:57:47.612Z",
+      "login": "",
+      "password": "123",
+      "id": "814rs7e1sk6nfgmam",
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2020-02-15T12:00:41.921Z",
+      "login": "login",
+      "password": "login",
+      "id": "814rs76sk6njuoci",
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0.00041020619744358555
+      }
+    }
+  ],
+  "favorites": {
+    "1": {
+      "2": "Ваня дурачок",
+      "3": "Пират Петр",
+      "814rs73i8k6nffxdu": "123_test"
+    },
+    "2": {
+      "1": "Чувак, который должен 20к неткойнов",
+      "3": "Партнёр по бизнесу"
+    },
+    "3": {
+      "2": "Важный клиент"
+    },
+    "814rs76sk6njuoci": {
+      "1": "testo",
+      "2": "123",
+      "3": "oleg@demo.ru"
+    }
+  }
 }
